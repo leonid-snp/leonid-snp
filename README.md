@@ -1,4 +1,3 @@
-
 # Привет! Меня зовут Леонид 👋
 
 Я начинающий Python-разработчик. Люблю бэкенд, инфраструктуру и простоту в коде.
@@ -17,14 +16,15 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [go-url-shortener](https://github.com/username/go-url-shortener) | Сервис сокращения ссылок | Go, PostgreSQL, Docker |
-| [todo-api](https://github.com/username/todo-api) | REST API для задач | Go, Fiber, GORM |
-| [go-exercises](https://github.com/username/go-exercises) | Практика и мелкие задания | Go |
+| [Sending_messages_to_clients](https://github.com/leonid-snp/Sending_messages_to_clients) | Сервис рассылки уведомлений клиентам | Python, Django, PostgreSQL, Docker, Docker-compose, HTML, CSS |
+| [API_sending_reminders_in_telegram](https://github.com/leonid-snp/API_sending_reminders_in_telegram) | API сервис отправки напоминаний в телеграмме | Python, DRF, PostgreSQL, Docker, Docker-compose, Celary, Redis |
+| [API_library_service](https://github.com/leonid-snp/API_library_service) | API для управления библиотекой | Python, DRF, PostgreSQL, Docker, Docker-compose |
+| [API_of_electronics_retail_chain](https://github.com/leonid-snp/API_of_electronics_retail_chain) | API электронной розничной сети | Python, DRF, PostgreSQL, Docker, Docker-compose |
+
 
 ## 📫 Связаться со мной
-- Telegram: [@userdev](https://t.me/userdev123123)
-- Email: user@example.com
-- LinkedIn: [linkedin.com/in/userdev](https://linkedin.com/in/userdev)
+- Telegram: [@leonid](http://t.me/L_onid)
+- Email: leonidpetrov637@gmail.com
 
 ## ⚡ Fun fact
 Я могу забыть, что написал вчера, но точно помню, где поставить `;` 😄
